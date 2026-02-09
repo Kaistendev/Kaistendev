@@ -47,15 +47,6 @@ Soy un apasionado del desarrollo backend enfocado en construir sistemas escalabl
 Motor de Ranking y Caché de alto rendimiento para E-sports.Core: Arquitectura de microservicios impulsada por Node.js y Redis.Lo más técnico: Implementación de estructuras de datos avanzadas (Sorted Sets) para clasificaciones en tiempo real con complejidad $O(\log(N))$. Incluye lógica de persistencia efímera (TTL), validación estricta de esquemas con Zod y una suite de pruebas de integración con Jest/Supertest.
 
 
-### 🛠️ Core Stack (The Hardware)
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,sqlite,js,ts,git,docker,redis&perline=15" />
-  </a>
-</p>
-
-
-
 ### 📫 Contacto
 ¿Buscas un desarrollador comprometido con la calidad del código? ¡Hablemos!
 
