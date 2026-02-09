@@ -44,7 +44,9 @@ Soy un apasionado del desarrollo backend enfocado en construir sistemas escalabl
 * **Lo más técnico:** Automatización de flujos de trabajo permitiendo configurar entornos en JS/TS y gestores de paquetes (npm/yarn/bun) de forma interactiva. Enfocado en mejorar la productividad del desarrollador.
  
 ### 🎮 [Rank API](https://github.com/Kaistendev/Rank-Api)
-Motor de Ranking y Caché de alto rendimiento para E-sports.Core: Arquitectura de microservicios impulsada por Node.js y Redis.Lo más técnico: Implementación de estructuras de datos avanzadas (Sorted Sets) para clasificaciones en tiempo real con complejidad $O(\log(N))$. Incluye lógica de persistencia efímera (TTL), validación estricta de esquemas con Zod y una suite de pruebas de integración con Jest/Supertest.
+**Motor de ranking y caché de alto rendimiento para E-sports.**
+* **Core:** API REST escalable desarrollada con Node.js y Redis.
+* **Lo más técnico:** Implementación de Sorted Sets para clasificaciones en tiempo real con complejidad $O(\log N)$. Incluye gestión de persistencia efímera mediante TTL, validación estricta de esquemas con Zod y una arquitectura testeada con Jest/Supertest bajo un enfoque de integración continua.
 
 
 ### 📫 Contacto
