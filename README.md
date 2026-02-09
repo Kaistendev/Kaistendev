@@ -4,24 +4,26 @@
 Soy un apasionado del desarrollo backend enfocado en construir sistemas escalables, seguros y con una arquitectura limpia. Aunque estoy iniciando mi carrera profesional, mi enfoque principal es la **precisión técnica** y el uso de **mejores prácticas** de la industria.
 
 - 🔭 Actualmente trabajando en: Perfeccionando arquitecturas basadas en Microservicios.
-- 🌱 Aprendiendo: Arquitecturas Cloud y despliegue en AWS.
+- 🌱 Aprendiendo: Arquitecturas Cloud, despliegue en AWS y Docker.
 - ⚡ Interés: Optimización de bases de datos y seguridad financiera.
 
----
+### 🛠️ My Technological Stack
 
-### 🛠️ My Stack Tecnológico
-
+#### 🌐 Languages & Core
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+#### 🚀 Frameworks & Testing
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 
----
+#### 🗄️ Databases & ORMs
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
 
 ### 📂 Proyectos Destacados
 
@@ -40,11 +42,15 @@ Soy un apasionado del desarrollo backend enfocado en construir sistemas escalabl
 **Herramienta de automatización para desarrolladores.**
 * **Core:** CLI Tool desarrollada en Node.js.
 * **Lo más técnico:** Automatización de flujos de trabajo permitiendo configurar entornos en JS/TS y gestores de paquetes (npm/yarn/bun) de forma interactiva. Enfocado en mejorar la productividad del desarrollador.
+* 
+### 🎮 [Rank API] (https://github.com/Kaistendev/Rank-Api)
+Motor de Ranking y Caché de alto rendimiento para E-sports.Core: Arquitectura de microservicios impulsada por Node.js y Redis.Lo más técnico: Implementación de estructuras de datos avanzadas (Sorted Sets) para clasificaciones en tiempo real con complejidad $O(\log(N))$. Incluye lógica de persistencia efímera (TTL), validación estricta de esquemas con Zod y una suite de pruebas de integración con Jest/Supertest.
+
 
 ### 🛠️ Core Stack (The Hardware)
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,sqlite,js,ts,git,docker&perline=15" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,sqlite,js,ts,git,docker,redis&perline=15" />
   </a>
 </p>
 
