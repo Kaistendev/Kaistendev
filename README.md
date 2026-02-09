@@ -44,7 +44,7 @@ Soy un apasionado del desarrollo backend enfocado en construir sistemas escalabl
 ### 🛠️ Core Stack (The Hardware)
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,sqlite,js,ts,git,docker,aws&perline=10" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,sqlite,js,ts,git,docker&perline=15" />
   </a>
 </p>
 
@@ -53,8 +53,8 @@ Soy un apasionado del desarrollo backend enfocado en construir sistemas escalabl
 ### 📫 Contacto
 ¿Buscas un desarrollador comprometido con la calidad del código? ¡Hablemos!
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU_LINKEDIN)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuemail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kai-stenbjorn-b4103321a/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaiducoss76@gmail.com)
 
 ---
 <p align="center">
