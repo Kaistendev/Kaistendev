@@ -51,11 +51,13 @@ Soy un apasionado del desarrollo backend enfocado en construir sistemas escalabl
 * **Core:** API REST escalable desarrollada con Node.js y Redis.
 * **Lo más técnico:** Implementación de Sorted Sets para clasificaciones en tiempo real con complejidad $O(\log N)$. Incluye gestión de persistencia efímera mediante TTL, validación estricta de esquemas con Zod y una arquitectura testeada con Jest/Supertest bajo un enfoque de integración continua.
 
-## 📩 [Ticket API](https://github.com/Kaistendev/ticketApi)
+### 📩 [Ticket API](https://github.com/Kaistendev/ticketApi)
 **Backend Para Gestión de Ticket en Soporte Técnico**
 * **Core:** API REST escalable desarrollada en Java, Spring y POSTGRESQL
 * **lo más técnico:** Diseño de una base de datos relacional para la gestion de tickets
 
+
+---
 ### 📫 Contacto
 ¿Buscas un desarrollador comprometido con la calidad del código? ¡Hablemos!
 
