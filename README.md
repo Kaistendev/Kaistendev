@@ -1,6 +1,6 @@
 # Hola, soy Kai Stenbjorn 👋
 
-### 🚀 Backend Developer | Estudiante de Informática
+### 🚀 Backend Developer
 Soy un apasionado del desarrollo backend enfocado en construir sistemas escalables, seguros y con una arquitectura limpia. Aunque estoy iniciando mi carrera profesional, mi enfoque principal es la **precisión técnica** y el uso de **mejores prácticas** de la industria.
 
 - 🔭 Actualmente trabajando en: Perfeccionando arquitecturas basadas en Microservicios.
