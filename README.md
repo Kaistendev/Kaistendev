@@ -41,11 +41,11 @@ Soy un apasionado del desarrollo backend enfocado en construir sistemas escalabl
 * **Core:** Node.js con **Sequelize** y **PostgreSQL**.
 * **Lo más técnico:** Diseño de una base de datos relacional compleja que gestiona contratos, asistencia y permisos. Estructura de proyecto organizada en capas (Controller-Service-Repository) para alta mantenibilidad.
 
-#### 🚀 [Express Generator CLI](https://github.com/Kaistendev/Generador-de-express)
-**Herramienta de automatización para desarrolladores.**
-* **Core:** CLI Tool desarrollada en Node.js.
-* **Lo más técnico:** Automatización de flujos de trabajo permitiendo configurar entornos en JS/TS y gestores de paquetes (npm/yarn/bun) de forma interactiva. Enfocado en mejorar la productividad del desarrollador.
- 
+#### 🚀 [App Taller](https://github.com/Kaistendev/app-taller)
+**Herramienta de automatización para Talleres que presten servicios tecnicos**
+* **Core:** Aplicacion web fullstack desarrollada con Express y React.
+* **Lo más técnico:** Automatización de flujos de trabajo permitiendo Automizar las recepciones de equipos electronicos, generacion de reportes y presupuestos personalizados
+  
 ### 🎮 [Rank API](https://github.com/Kaistendev/Rank-Api)
 **Motor de ranking y caché de alto rendimiento para E-sports.**
 * **Core:** API REST escalable desarrollada con Node.js y Redis.
