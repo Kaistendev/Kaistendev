@@ -30,54 +30,6 @@ motto: "Code is poetry, architecture is art."
 
 I build **backends that don't break.** Every system I design starts with three questions: *Is it secure? Is it precise? Can someone else maintain it?* If the answer isn't yes to all three, it's not ready.
 
-<br>
-
-## ⚡ Core Expertise
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🔒 Financial & Transactional Systems</h3>
-      <ul>
-        <li>Atomic transactions with rollback guarantees</li>
-        <li><code>Decimal.js</code> for zero floating-point error</li>
-        <li>Double-entry ledger patterns</li>
-        <li>Idempotent payment processing</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🏗️ Clean Architecture & Patterns</h3>
-      <ul>
-        <li>Repository + Service + Controller layers</li>
-        <li>Strategy pattern for payment gateways</li>
-        <li>Dependency injection via constructor</li>
-        <li>DTO validation with Zod / class-validator</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🗄️ Database Design & Optimization</h3>
-      <ul>
-        <li>Prisma ORM + raw SQL when needed</li>
-        <li>Indexed queries & query profiling</li>
-        <li>Redis caching strategies</li>
-        <li>Migration-first schema design</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🔐 Security & RBAC</h3>
-      <ul>
-        <li>JWT with refresh token rotation</li>
-        <li>Role-based access control</li>
-        <li>Rate limiting & brute-force protection</li>
-        <li>Input sanitization at every boundary</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-<br>
 
 ## 🛠️ Tech Stack
 
