@@ -5,7 +5,7 @@
 ```yaml
 ---
 name: Kai Stenbjorn
-role: Backend Developer & System Architect
+role: Fullstack developer
 focus: "Clean Architecture · Monetary Precision · Scalable Systems"
 location: Bolivar, Venezuela
 motto: "Code is poetry, architecture is art."
@@ -28,7 +28,6 @@ motto: "Code is poetry, architecture is art."
 
 ---
 
-I build **backends that don't break.** Every system I design starts with three questions: *Is it secure? Is it precise? Can someone else maintain it?* If the answer isn't yes to all three, it's not ready.
 
 
 ## 🛠️ Tech Stack
@@ -53,7 +52,7 @@ I build **backends that don't break.** Every system I design starts with three q
 <summary><strong>Databases & ORMs</strong></summary>
 <br>
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,prisma" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,prisma,sequelize" />
 </p>
 </details>
 
@@ -61,7 +60,7 @@ I build **backends that don't break.** Every system I design starts with three q
 <summary><strong>Learning & Expanding</strong></summary>
 <br>
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,aws,php,laravel" />
+  <img src="https://skillicons.dev/icons?i=docker,aws,php,laravel,python" />
 </p>
 </details>
 
@@ -126,14 +125,6 @@ I build **backends that don't break.** Every system I design starts with three q
 </table>
 
 <br>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kaistendev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaistendev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</div>
-
 <br>
 
 ## 📬 Let's Connect
