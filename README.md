@@ -103,24 +103,7 @@ motto: "Code is poetry, architecture is art."
         </a>
       </p>
     </td>
-    <td width="33%" valign="top">
-      <h3 align="center">🐾 VeterinariaERP</h3>
-      <p align="center"><em>Veterinary practice management</em></p>
-      <ul>
-        <li>Appointment scheduling</li>
-        <li>Patient records & billing</li>
-        <li>Multi-role clinic management</li>
-      </ul>
-      <p align="center">
-        <a href="https://github.com/Kaistendev/veterinaria-api/tree/main">
-          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github"/>
-        </a>
-        <br>
-        <a href="https://veterinaria-api-sigma.vercel.app/login">
-          <img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel"/>
-        </a>
-      </p>
-    </td>
+   
   </tr>
 </table>
 
